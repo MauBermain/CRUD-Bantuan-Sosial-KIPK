@@ -1,11 +1,11 @@
 # CRUD PENERIMA KIPK UNIVERSITAS HASYIM ASYARI 2024
-# Ahmad BAdrul Furqon
+## Ahmad BAdrul Furqon
 
-🧾 Deskripsi
+## 🧾 Deskripsi
 Project ini merupakan aplikasi berbasis VB.NET yang digunakan untuk mengelola data KIPK (Kartu Indonesia Pintar Kuliah).
 Aplikasi ini terhubung dengan database MySQL menggunakan file kipk.sql.
 
-🚀 Fitur Utama
+## 🚀 Fitur Utama
 CRUD Data Mahasiswa KIPK,
 Login User (Admin),
 Pencarian Data,
@@ -13,12 +13,12 @@ Laporan,
 Koneksi ke Database MySQL,
 Tampilan Windows Form (VB.NET)
 
-🛠️Teknologi yang Digunakan
+## 🛠️Teknologi yang Digunakan
 VB.NET (Visual Basic .NET),
 MySQL Database,
 Windows Forms
 
-📂 Struktur Folder
+## 📂 Struktur Folder
 ```bash
 CRUD-Bantuan-Sosial-KIPK/
 │
@@ -39,7 +39,7 @@ CRUD-Bantuan-Sosial-KIPK/
 └── README.md
 ```
 
-📂NuGet Package yang digunakan
+## 📂NuGet Package yang digunakan
 1. ClosedXML
 2. DocX
 3. iTextSharp
@@ -47,7 +47,7 @@ CRUD-Bantuan-Sosial-KIPK/
 5. mysql.data
 6. system.data.odbc
 
-⚙️ Cara Menjalankan Project
+## ⚙️ Cara Menjalankan Project
 1. Clone Repository
 git clone https://github.com/username/nama-repo.git
 2. Import Database
@@ -63,5 +63,5 @@ Dim conn As New MySqlConnection("server=localhost;user id=root;password=;databas
 Buka file .sln di Visual Studio
 Klik Start / Run
 
-📄 Lisensi
+## 📄 Lisensi
 Project ini menggunakan lisensi bebas (MIT / bebas digunakan untuk pembelajaran)
