@@ -1,5 +1,5 @@
 # CRUD PENERIMA KIPK UNIVERSITAS HASYIM ASYARI 2024
-#Ahmad BAdrul Furqon
+# Ahmad BAdrul Furqon
 
 🧾 Deskripsi
 Project ini merupakan aplikasi berbasis VB.NET yang digunakan untuk mengelola data KIPK (Kartu Indonesia Pintar Kuliah).
@@ -18,7 +18,7 @@ VB.NET (Visual Basic .NET),
 MySQL Database,
 Windows Forms
 
-## 📂 Struktur Folder
+📂 Struktur Folder
 ```bash
 CRUD-Bantuan-Sosial-KIPK/
 │
