@@ -61,7 +61,8 @@ Edit file App.config atau module koneksi:
 Dim conn As New MySqlConnection("server=localhost;user id=root;password=;database=kipk")
 4. Jalankan Project
 Buka file .sln di Visual Studio
-Klik Start / Run
+5. Instal NuGet Package (jika belum terinstal)
+6. Klik Start / Run
 
 ## 📄 Lisensi
 Project ini menggunakan lisensi bebas (MIT / bebas digunakan untuk pembelajaran)
