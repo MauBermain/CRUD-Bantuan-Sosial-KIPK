@@ -43,4 +43,4 @@ Buka file .sln di Visual Studio
 Klik Start / Run
 
 📄 Lisensi
-Project ini menggunakan lisensi bebas (MIT / bebas digunakan untuk pembelajaran
+Project ini menggunakan lisensi bebas (MIT / bebas digunakan untuk pembelajaran)
