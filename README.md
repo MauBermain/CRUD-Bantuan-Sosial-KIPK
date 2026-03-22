@@ -49,7 +49,7 @@ CRUD-Bantuan-Sosial-KIPK/
 
 ## ⚙️ Cara Menjalankan Project
 1. Clone Repository
-git clone https://github.com/username/nama-repo.git
+```git clone https://github.com/MauBermain/CRUD-Bantuan-Sosial-KIPK.git```
 2. Import Database
 Buka phpMyAdmin atau MySQL
 Buat database baru, contoh:
