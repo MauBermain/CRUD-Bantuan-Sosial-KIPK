@@ -6,11 +6,11 @@ Project ini merupakan aplikasi berbasis VB.NET yang digunakan untuk mengelola da
 Aplikasi ini terhubung dengan database MySQL menggunakan file kipk.sql.
 
 🚀 Fitur Utama
-CRUD Data Mahasiswa KIPK
-Login User (Admin)
-Pencarian Data
-Laporan
-Koneksi ke Database MySQL
+CRUD Data Mahasiswa KIPK,
+Login User (Admin),
+Pencarian Data,
+Laporan,
+Koneksi ke Database MySQL,
 Tampilan Windows Form (VB.NET)
 
 🛠️Teknologi yang Digunakan
@@ -19,12 +19,12 @@ MySQL Database
 Windows Forms
 
 📂NuGet Package yang digunakan
-ClosedXML
-DocX
-iTextSharp
-microsoft.office.interop.word
-mysql.data
-system.data.odbc
+1. ClosedXML
+2. DocX
+3. iTextSharp
+4. microsoft.office.interop.word
+5. mysql.data
+6. system.data.odbc
 
 ⚙️ Cara Menjalankan Project
 1. Clone Repository
