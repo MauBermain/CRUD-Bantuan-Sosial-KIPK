@@ -18,34 +18,26 @@ VB.NET (Visual Basic .NET),
 MySQL Database,
 Windows Forms
 
+## 📂 Struktur Folder
+```bash
 CRUD-Bantuan-Sosial-KIPK/
 │
-├── 📁 Database/
+├── Database/
 │   └── kipk.sql
 │
-├── 📁 Forms/
+├── Forms/
 │   ├── FormLogin.vb
 │   ├── FormMenu.vb
 │   ├── FormMahasiswa.vb
-│   ├── FormBantuan.vb
-│   └── FormLaporan.vb
 │
-├── 📁 Modules/
+├── Modules/
 │   ├── Koneksi.vb
-│   ├── ModuleCRUD.vb
-│   └── Helper.vb
-│
-├── 📁 Assets/
-│   ├── images/
-│   └── icons/
-│
-├── 📁 bin/
-├── 📁 obj/
+│   └── ModuleCRUD.vb
 │
 ├── App.config
 ├── CRUD-KIPK.sln
-├── CRUD-KIPK.vbproj
 └── README.md
+```
 
 📂NuGet Package yang digunakan
 1. ClosedXML
