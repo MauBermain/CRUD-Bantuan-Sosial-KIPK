@@ -14,8 +14,8 @@ Koneksi ke Database MySQL,
 Tampilan Windows Form (VB.NET)
 
 🛠️Teknologi yang Digunakan
-VB.NET (Visual Basic .NET)
-MySQL Database
+VB.NET (Visual Basic .NET),
+MySQL Database,
 Windows Forms
 
 📂NuGet Package yang digunakan
